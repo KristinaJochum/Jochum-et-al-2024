@@ -1,0 +1,167 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Predicted Activation State	Activation z-score	Molecules	# Molecules
+Liver Cholestasis	Cholestasis	2,80E-13	 	 	ABCB4,ABCC3,ADH1C,ALB,CYP7A1,CYP7B1,HPX,IL6,MTTP,NR0B2,NR1H4,SCD,SLC10A1,SREBF1	14
+Liver Steatosis	Hepatic steatosis	2,92E-13	 	 	ACADL,ACOT1,ACOX2,CAT,CD44,CYP2E1,CYP7A1,FASN,GPT,GPX4,IL6,NR0B2,NR1H4,PPARA,SOD1,SREBF1	16
+Liver Inflammation/Hepatitis	Inflammation of liver	4,93E-13	 	 	ABCB4,ACOT1,ALB,C3,CYP2C9,CYP2E1,CYP7A1,FASN,GPT,HSP90B1,HSPA5,IL1B,IL6,NR0B2,NR1H4,PPARA,PTPRC,SLC10A1	18
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	9,92E-13	 	 	ABCB4,ADH1C,CYP7A1,HPX,MTTP,NR0B2,NR1H4,SCD,SLC10A1,SREBF1	10
+Liver Steatosis	Nonalcoholic fatty liver disease	7,52E-12	 	 	ACADL,ACOT1,ACOX2,CAT,CYP2E1,CYP7A1,FASN,GPT,GPX4,NR0B2,NR1H4,PPARA,SOD1,SREBF1	14
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	6,41E-11	 	 	ACAA1,ACOX2,CAT,CYP7B1,FASN,HSP90B1,HSPA5,HSPA9,NR1H4,SLC10A1,SOD1	11
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	1,59E-10	 	 	ACAA1,ACAA2,ACADL,ACADM,ACADSB,ACAT1,ACOT1,ACOX2,ADH1C,ALB,ALDH2,APOA5,APOF,BCL2L11,C9,CAT,CD44,CES2,CYP1A1,CYP2C19,CYP2C9,CYP2E1,CYP7B1,EHHADH,F2,FASN,FH,HAAO,HSP90B1,HSPA5,HSPA9,INHBE,MAOB,NR1H4,RAD51,SCD,SLC10A1,SOD1,SREBF1,STBD1	40
+Liver Cholestasis	Intrahepatic cholestasis	4,55E-10	 	 	ABCB4,ADH1C,CYP7A1,CYP7B1,HPX,MTTP,NR0B2,NR1H4,SCD,SLC10A1,SREBF1	11
+Liver Hyperplasia/Hyperproliferation	Liver cancer	5,90E-10	 	 	AASS,ABCB4,ABCC3,ACAA1,ACAA2,ACADL,ACADM,ACADSB,ACAT1,ACOT1,ACOX2,ADH1C,AHSG,ALB,ALDH1A1,ALDH2,APOA5,APOF,ASAH1,BCL2,BCL2L11,BDH2,BRCA2,C3,C9,CAT,CD44,CES2,CPT1B,CROT,CYP1A1,CYP2C19,CYP2C9,CYP2D6,CYP2E1,CYP7A1,CYP7B1,DDIT3,DECR1,DHCR24,EHHADH,ERCC5,ERN2,F2,FABP1,FASN,FH,FMO2,GSTA3,HAAO,HERPUD1,HPX,HSP90B1,HSPA5,HSPA9,IL6,INHBE,MAOB,MCL1,NR1H4,NUDT13,OS9,PCCA,PRDX6,PTPRC,RAD51,SCD,SDHA,SLC10A1,SOD1,SREBF1,STBD1,UGT2B4	73
+Liver Hyperplasia/Hyperproliferation	Liver tumor	6,31E-09	 	 	AASS,ABCB4,ABCC3,ACAA1,ACAA2,ACADL,ACADM,ACADSB,ACAT1,ACOT1,ACOX2,ADH1C,AHSG,ALB,ALDH1A1,ALDH2,APOA5,APOF,ASAH1,ASNS,BCL2,BCL2L11,BDH2,BRCA2,C3,C9,CAT,CD44,CES2,CPT1B,CROT,CYP1A1,CYP2C19,CYP2C9,CYP2D6,CYP2E1,CYP7A1,CYP7B1,DDIT3,DECR1,DHCR24,EHHADH,EPX,ERCC5,ERN2,F2,FABP1,FASN,FH,FMO2,FMO3,GSTA3,HAAO,HERPUD1,HPN,HPX,HSP90B1,HSPA5,HSPA9,IL6,INHBE,MAOB,MCL1,NR1H4,NUDT13,OS9,PCCA,PRDX6,PTPRC,RAD51,SCD,SDHA,SLC10A1,SOD1,SREBF1,STBD1,UGT2B4	77
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,58E-08	 	 	AASS,ABCB4,ABCC3,ACAA1,ACAA2,ACADL,ACADM,ACADSB,ACAT1,ACOT1,ACOX2,ADH1C,ALB,ALDH2,APOA5,APOF,ASAH1,BCL2,BCL2L11,BDH2,BRCA2,C3,C9,CAT,CD44,CES2,CPT1B,CROT,CYP1A1,CYP2C19,CYP2C9,CYP2D6,CYP2E1,CYP7A1,CYP7B1,DDIT3,DECR1,DHCR24,EHHADH,ERCC5,ERN2,F2,FABP1,FASN,FH,FMO2,GSTA3,HAAO,HERPUD1,HPX,HSP90B1,HSPA5,HSPA9,INHBE,MAOB,MCL1,NR1H4,NUDT13,OS9,PCCA,PRDX6,PTPRC,RAD51,SCD,SDHA,SLC10A1,SOD1,SREBF1,STBD1	69
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 2	2,96E-08	 	 	CYP7A1,NR0B2,NR1H4,SLC10A1	4
+Liver Fibrosis	Fibrosis of liver	1,22E-07	 	 	ABCB4,ABCC3,ALB,CD86,CYP7B1,IL6,MTTP,NR1H4,PPARA,SLC51A,SREBF1,TNFSF10	12
+Liver Inflammation/Hepatitis,Liver Steatosis	Steatohepatitis	2,17E-07	 	 	ACOT1,CYP2E1,CYP7A1,GPT,IL6,NR0B2,NR1H4	7
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	2,32E-07	 	 	ABCB4,ABCC3,CD86,MTTP,NR1H4,PPARA,SLC51A,TNFSF10	8
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	2,57E-07	 	 	ABCB4,ABCC3,ALB,CD86,CYP7B1,IL6,MTTP,NR1H4,PPARA,SLC51A,TNFSF10	11
+Liver Cirrhosis	Cirrhosis	8,24E-07	 	 	ABCB4,ABCC3,ALB,CD86,CYP7B1,F2,IL6,MTTP,NR1H4,PPARA,SLC51A,TNFSF10	12
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	1,51E-06	 	 	ACOT1,CYP2E1,CYP7A1,GPT,NR0B2,NR1H4	6
+Liver Inflammation/Hepatitis	Viral hepatitis	2,80E-06	 	 	ALB,C3,CYP2C9,HSP90B1,HSPA5,IL1B,IL6,PPARA,SLC10A1	9
+Kidney Failure	Failure of kidney	3,39E-06	 	 	ALB,C3,CD86,CYP2D6,DEFB1,F2,FABP1,IL6,SERPINA3	9
+Liver Inflammation/Hepatitis	Chronic hepatitis	6,83E-06	 	 	CYP2C9,HSP90B1,HSPA5,IL1B,IL6,PPARA,PTPRC,SLC10A1	8
+Liver Inflammation/Hepatitis	Chronic viral hepatitis	1,34E-05	 	 	CYP2C9,HSP90B1,HSPA5,IL1B,IL6,PPARA,SLC10A1	7
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis C virus-related hepatocellular carcinoma	2,74E-05	 	 	CAT,HSP90B1,HSPA5,HSPA9	4
+Renal Necrosis/Cell Death	Cell death of kidney cell lines	4,58E-05	 	-1,602	BCL2,BCL2L11,CD44,F2,HSPA5,MCL1,RAD51,SDHC,SOD1,TNFSF10	10
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Goodpasture syndrome	8,90E-05	 	 	ASNS,DDIT3	2
+Decreased Levels of Albumin	Decreased synthesis of albumin	8,90E-05	 	 	ALB,IL6	2
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,32E-04	 	-1,641	BCL2,BCL2L11,CD44,F2,HSPA5,MCL1,SDHC,TNFSF10	8
+Cardiac Damage	Cardiotoxicity	1,38E-04	 	 	ACAA1,BCL2,CAT,HSP90B1	4
+Kidney Failure	Acute renal allograft rejection	1,71E-04	 	 	C3,DEFB1,SERPINA3	3
+Cardiac Infarction	Myocardial infarction	1,73E-04	 	 	C3,CYP2C19,CYP2C9,F2,IL1B,IL6,PON1,PPARA	8
+Liver Inflammation/Hepatitis	Infection by hepatitis B virus	1,86E-04	 	 	C3,HSP90B1,IL1B,IL6,SLC10A1	5
+Liver Damage	Liver Damage	2,99E-04	 	 	ABCB4,ALDH1A1,TNFSF10	3
+Liver Failure	Failure of liver	3,09E-04	 	 	ABCB4,ALB,CYP7B1,IL6	4
+Liver Hyperplasia/Hyperproliferation	Liver cholangiocarcinoma	4,14E-04	 	 	BCL2,BRCA2,HSP90B1,MCL1,PRDX6	5
+Cardiac Arteriopathy	Disorder of coronary artery	4,73E-04	 	 	ACAA1,APOA5,CYP2C19,CYP2C9,F2,IL1B,IL6,PON1,PPARA	9
+Liver Proliferation	Proliferation of liver cells	4,76E-04	 	 	F2,HPN,IL1B	3
+Kidney Failure	End stage renal disease	4,85E-04	 	 	C3,CD86,CYP2D6,F2,IL6	5
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B surface antigen-negative hepatitis C virus negative hepatocellular carcinoma	6,45E-04	 	 	HSP90B1,HSPA5,HSPA9	3
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Autoimmune glomerulonephritis	6,62E-04	 	 	ALB,ASNS,C3,DDIT3	4
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	8,07E-04	 	 	ALB,CYP2C9,HSPA5,IL6,PPARA	5
+Renal Damage	Acute kidney injury	9,38E-04	 	 	AHSG,ALB,FABP1,SERPINA3	4
+Liver Cirrhosis,Liver Fibrosis	Early stage primary biliary cirrhosis	1,05E-03	 	 	ABCB4,MTTP	2
+Cardiac Arteriopathy	Coronary artery disease	1,17E-03	 	 	APOA5,CYP2C19,CYP2C9,F2,IL1B,IL6,PON1	7
+Liver Inflammation/Hepatitis	Chronic hepatitis C	1,23E-03	 	 	CYP2C9,HSPA5,IL6,PPARA	4
+Cardiac Infarction	Acute myocardial infarction	1,47E-03	 	 	C3,F2,IL6,PON1,PPARA	5
+Liver Hyperplasia/Hyperproliferation	Hepatoblastoma	1,72E-03	 	 	BRCA2,ERCC5,FH,HSP90B1	4
+Liver Inflammation/Hepatitis	Alcoholic hepatitis	2,46E-03	 	 	IL1B,IL6,SLC10A1	3
+Liver Proliferation	Proliferation of hepatocytes	2,98E-03	 	 	HPN,IL1B	2
+Liver Damage	Hepatotoxicity	3,40E-03	 	 	ABCB4,ALDH1A1	2
+Cardiac Arrythmia	Ventricular fibrillation	3,98E-03	 	 	CYP2D6,MAOA,MAOB	3
+Renal Proliferation	Proliferation of mesangial cells	4,30E-03	 	 	IL1B,IL6	2
+Cardiac Arrythmia	Atrial fibrillation	4,34E-03	 	 	CYP2D6,F2,IL6,MAOA,MAOB	5
+Liver Hyperbilirubinemia	Hyperbilirubinemia	4,79E-03	 	 	ABCC3,C3	2
+Liver Necrosis/Cell Death	Apoptosis of hepatocytes	5,30E-03	 	 	BCL2,TNFSF10	2
+Cardiac Inflammation	Acute myocarditis	5,30E-03	 	 	CD86,IL1B	2
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic noncirrhotic steatohepatitis	5,48E-03	 	 	NR1H4	1
+Liver Cholestasis	Autosomal recessive progressive familial intrahepatic cholestasis type 3	5,48E-03	 	 	ABCB4	1
+Liver Steatosis	Grade 2-3 hepatic steatosis	5,48E-03	 	 	SREBF1	1
+Glomerular Injury	Fanconi renotubular syndrome type 3	5,48E-03	 	 	EHHADH	1
+Hepatocellular Peroxisome Proliferation	Proliferation of peroxisomes in liver	5,48E-03	 	 	PPARA	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 5	5,48E-03	 	 	NR1H4	1
+Liver Cirrhosis	Adult idiopathic cirrhosis	5,48E-03	 	 	ABCB4	1
+Liver Fibrosis	Opisthorchiasis periductal fibrosis	5,48E-03	 	 	IL6	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Idiopathic immune-complex membranoproliferative glomerulonephritis	5,48E-03	 	 	C3	1
+Renal Inflammation,Renal Nephritis	Idiopathic interstitial nephritis	5,48E-03	 	 	ALB	1
+Renal Damage,Renal Tubule Injury	Injury of tubulointerstitium	5,48E-03	 	 	FABP1	1
+Decreased Levels of Albumin	Decreased production of albumin	5,48E-03	 	 	IL6	1
+Liver Cholestasis	Advanced stage intrahepatic cholestasis	5,48E-03	 	 	CYP7B1	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy type 1GG	5,48E-03	 	 	SDHA	1
+Liver Hyperplasia/Hyperproliferation	Arrest in growth of liver cancer cells	5,48E-03	 	 	HPN	1
+Liver Inflammation/Hepatitis	Chronic hepatitis B	6,21E-03	 	 	HSP90B1,IL1B,IL6	3
+Liver Inflammation/Hepatitis	Chronic autoimmune hepatitis	6,40E-03	 	 	PTPRC,SLC10A1	2
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	6,73E-03	 	 	CYP2D6,MAOA,MAOB	3
+Renal Inflammation,Renal Nephritis	Nephritis	7,06E-03	 	 	ALB,ASNS,C3,CD86,DDIT3,IL6	6
+Cardiac Dysfunction	Calcification of aortic valve	8,45E-03	 	 	AHSG,APOF,C3,C9,F2,PON1	6
+Cardiac Infarction	Nonfatal myocardial infarction	8,88E-03	 	 	CYP2C19,PPARA	2
+Cardiac Dysfunction	Diastolic dysfunction	9,56E-03	 	 	ACAA1,IL1B	2
+Liver Inflammation/Hepatitis	Hepatitis subtype infantile hepatitis syndrome	1,09E-02	 	 	IL6	1
+Liver Hyperbilirubinemia	Dubin-Johnson syndrome	1,09E-02	 	 	ABCC3	1
+Liver Cholestasis,Liver Inflammation/Hepatitis	Cholestatic alcoholic hepatitis	1,09E-02	 	 	SLC10A1	1
+Liver Fibrosis	Stage III-IV hepatic fibrosis	1,09E-02	 	 	SREBF1	1
+Congenital Heart Anomaly	Vertebral, cardiac, renal and limb defects syndrome 1	1,09E-02	 	 	HAAO	1
+Liver Cholestasis	Transient idiopathic neonatal cholestasis	1,09E-02	 	 	ABCB4	1
+Liver Cholestasis	Intrahepatic cholestasis of pregnancy type 3	1,09E-02	 	 	ABCB4	1
+Liver Cholestasis	Drug-induced cholestasis	1,09E-02	 	 	ABCB4	1
+Liver Necrosis/Cell Death	Quantity of apoptotic hepatocytes	1,09E-02	 	 	TNFSF10	1
+Decreased Levels of Albumin	Decreased secretion of albumin	1,09E-02	 	 	IL6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Malignant hepatocellular carcinoma	1,09E-02	 	 	SREBF1	1
+Liver Inflammation/Hepatitis	Infantile cholestatic hepatitis syndrome	1,09E-02	 	 	IL6	1
+Decreased Levels of Albumin	Decreased activation of albumin	1,09E-02	 	 	ALB	1
+Cardiac Dilation,Cardiac Enlargement	Idiopathic dilated cardiomyopathy	1,25E-02	 	 	IL6,SDHA	2
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	1,25E-02	 	 	IL1B,IL6	2
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranoproliferative glomerulonephritis type 2	1,64E-02	 	 	C3	1
+Liver Hyperplasia/Hyperproliferation	Non-well differentiated fetal hepatoblastoma	1,64E-02	 	 	HSP90B1	1
+Cardiac Thrombosis	Left atrial appendage thrombosis	1,64E-02	 	 	F2	1
+Glomerular Injury	Fanconi renotubular syndrome type 1	1,64E-02	 	 	EHHADH	1
+Cardiac Pulmonary Embolism	Postoperative pulmonary embolism	1,64E-02	 	 	F2	1
+Liver Damage	Drug-induced hepatotoxicity	1,64E-02	 	 	ABCB4	1
+Cardiac Arrythmia	Atrial fibrillation with embolism	1,64E-02	 	 	F2	1
+Liver Cholestasis	Obstructive jaundice	1,64E-02	 	 	CAT	1
+Cardiac Pulmonary Embolism	Symptomatic stage acute deep vein thrombosis with pulmonary embolism	1,64E-02	 	 	F2	1
+Cardiac Pulmonary Embolism	Recurrent pulmonary embolism	1,64E-02	 	 	F2	1
+Glomerular Injury	C3 glomerulopathy	1,64E-02	 	 	C3	1
+Liver Steatosis	Advanced stage hepatic steatosis	1,64E-02	 	 	CD44	1
+Cardiac Arteriopathy	Susceptibility to coronary artery disease	1,64E-02	 	 	PON1	1
+Glomerular Injury	Familial glomerulopathy	1,66E-02	 	 	C3,EHHADH	2
+Liver Hyperplasia/Hyperproliferation	Primary liver cancer	1,93E-02	 	 	FASN,HSP90B1	2
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Glomerulonephritis	1,99E-02	 	 	ALB,ASNS,C3,CD86,DDIT3	5
+Liver Inflammation/Hepatitis	HIV-HCV co-infection	2,17E-02	 	 	ALB	1
+Kidney Failure,Renal Damage	Ischemic acute renal failure	2,17E-02	 	 	FABP1	1
+Liver Cirrhosis	Advanced stage cirrhosis	2,71E-02	 	 	ALB	1
+Liver Inflammation/Hepatitis	Chronic hepatitis D	2,71E-02	 	 	SLC10A1	1
+Cardiac Pulmonary Embolism	Submassive pulmonary embolism	2,71E-02	 	 	F2	1
+Liver Hyperplasia/Hyperproliferation	Resectable liver cholangiocarcinoma	2,71E-02	 	 	HSP90B1	1
+Cardiac Arrythmia	Non-valvular atrial fibrillation	2,71E-02	 	 	F2	1
+Cardiac Stenosis	Stenosis of mitral valve	2,71E-02	 	 	F2	1
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	2,74E-02	 	 	CD44,HSP90B1	2
+Liver Hyperplasia/Hyperproliferation	Unresectable liver cholangiocarcinoma	3,19E-02	 	 	BCL2,HSP90B1	2
+Cardiac Dysfunction	Right ventricular dysfunction	3,24E-02	 	 	F2	1
+Renal Inflammation,Renal Nephritis	Pyelonephritis	3,24E-02	 	 	IL6	1
+Liver Hyperplasia/Hyperproliferation	Metastatic liver cholangiocarcinoma	3,42E-02	 	 	BCL2,HSP90B1	2
+Renal Necrosis/Cell Death	Cell viability of kidney cell lines	3,47E-02	 	 	ABCC3,BCL2,BRCA2	3
+Liver Cirrhosis,Liver Failure,Liver Fibrosis	Acute-on-chronic liver failure	3,77E-02	 	 	ALB	1
+Increased Levels of LDH	Increased release of LDH	3,77E-02	 	 	IL1B	1
+Liver Cirrhosis,Liver Fibrosis	Compensated cirrhosis	3,77E-02	 	 	NR1H4	1
+Congenital Heart Anomaly	Congenital heart disease	3,84E-02	 	 	ALB,F2,HAAO,IL6	4
+Kidney Failure	Acute renal failure	4,55E-02	 	 	ALB,FABP1	2
+Cardiac Arrythmia	Atrial flutter	5,09E-02	 	 	CYP2D6,F2	2
+Liver Hyperplasia/Hyperproliferation	Locally advanced liver cholangiocarcinoma	5,35E-02	 	 	HSP90B1	1
+Nephrosis	Steroid dependent nephrotic syndrome	5,87E-02	 	 	C3	1
+Liver Cirrhosis,Liver Fibrosis	Decompensated cirrhosis of liver	6,38E-02	 	 	ALB	1
+Heart Failure	Ischemic heart failure	6,38E-02	 	 	IL1B	1
+Renal Damage	Nephrotoxicity	6,90E-02	 	 	CD86	1
+Cardiac Stenosis	Non-rheumatic aortic stenosis	6,90E-02	 	 	F2	1
+Cardiac Dilation,Cardiac Enlargement	Recessive dilated cardiomyopathy	6,90E-02	 	 	SDHA	1
+Liver Necrosis/Cell Death	Apoptosis of liver cell lines	6,90E-02	 	 	TNFSF10	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	6,90E-02	 	 	F2	1
+Cardiac Infarction	Recurrent myocardial infarction	7,41E-02	 	 	F2	1
+Cardiac Infarction	Acute ST-elevation myocardial infarction	7,41E-02	 	 	F2	1
+Liver Cholestasis	Intrahepatic cholestasis of pregnancy	7,45E-02	 	 	ABCB4,SLC10A1	2
+Cardiac Infarction	ST-elevation myocardial infarction	9,07E-02	 	 	F2,IL1B	2
+Nephrosis	Nephrosis	1,05E-01	 	 	ALB,C3,F2	3
+Kidney Failure,Liver Failure	Hepatorenal syndrome	1,09E-01	 	 	ALB	1
+Liver Inflammation/Hepatitis	Acute alcoholic hepatitis	1,09E-01	 	 	IL1B	1
+Cardiac Arrythmia	Symptomatic stage atrial fibrillation	1,14E-01	 	 	CYP2D6	1
+Cardiac Arrythmia,Tachycardia	Sustained ventricular tachycardia	1,14E-01	 	 	CYP2D6	1
+Cardiac Arrythmia	Symptomatic stage atrial flutter	1,14E-01	 	 	CYP2D6	1
+Liver Hyperplasia/Hyperproliferation	Small cell undifferentiated hepatoblastoma	1,19E-01	 	 	HSP90B1	1
+Cardiac Inflammation	Pericarditis	1,24E-01	 	 	IL1B	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Primary hepatocellular carcinoma	1,52E-01	 	 	FASN	1
+Cardiac Arrythmia,Tachycardia	Recurrent tachyarrhythmia	1,57E-01	 	 	CYP2D6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Recurrent hepatocellular carcinoma	1,61E-01	 	 	HSP90B1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranous glomerulonephritis	1,66E-01	 	 	ALB	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Metastatic hepatocellular carcinoma	1,71E-01	 	 	HSP90B1	1
+Cardiac Arrythmia	Persistent atrial fibrillation	1,75E-01	 	 	F2	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Progressive hepatocellular carcinoma	1,84E-01	 	 	SREBF1	1
+Cardiac Arrythmia	Severe ventricular arrhythmia	1,89E-01	 	 	CYP2D6	1
+Cardiac Infarction	Non-ST elevation myocardial infarction	1,93E-01	 	 	F2	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	IgA nephropathy	2,11E-01	 	 	C3	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Unresectable hepatocellular carcinoma	2,73E-01	 	 	HSP90B1	1
+Renal Proliferation	Cell proliferation of kidney cell lines	3,22E-01	 	 	BCL2,CES2	2
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Lupus nephritis	3,36E-01	 	 	C3,CD86	2
+Heart Failure	Failure of heart	4,73E-01	 	 	IL1B,IL6	2
+Cardiac Congestive Cardiac Failure,Heart Failure	Congestive heart failure	4,89E-01	 	 	IL6	1

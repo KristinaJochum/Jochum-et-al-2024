@@ -1,0 +1,50 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Steatosis	Advanced stage hepatic steatosis	1,01E-06	CD44,SPP1	2
+Liver Inflammation/Hepatitis	Inflammation of liver	3,99E-05	CCN1,CXCL1,IL6,SPP1	4
+Liver Inflammation/Hepatitis	Chronic hepatitis	1,54E-04	CCN1,IL6,SPP1	3
+Liver Steatosis	Hepatic steatosis	3,60E-04	CD44,IL6,SPP1	3
+Liver Inflammation/Hepatitis	Alcoholic hepatitis	3,89E-04	CXCL1,IL6	2
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	4,92E-04	IL6,NQO1,SPP1	3
+Decreased Levels of Albumin	Decreased production of albumin	6,04E-04	IL6	1
+Liver Fibrosis	Opisthorchiasis periductal fibrosis	6,04E-04	IL6	1
+Cardiac Dysfunction	Calcification of aortic valve	8,33E-04	CCN1,HMOX1,SPP1	3
+Renal Damage	Acute kidney injury	1,01E-03	CCN1,SPP1	2
+Liver Inflammation/Hepatitis	Chronic hepatitis C	1,17E-03	IL6,SPP1	2
+Decreased Levels of Albumin	Decreased secretion of albumin	1,21E-03	IL6	1
+Cardiac Dilation,Cardiac Enlargement	Barth syndrome	1,21E-03	G6PD	1
+Liver Inflammation/Hepatitis	Infantile cholestatic hepatitis syndrome	1,21E-03	IL6	1
+Liver Inflammation/Hepatitis	Hepatitis subtype infantile hepatitis syndrome	1,21E-03	IL6	1
+Decreased Levels of Albumin	Decreased synthesis of albumin	1,81E-03	IL6	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,98E-03	CCN1,CD44,FMO2,HMOX1,IGFBP1,IL6,LGALS3,MT1A,NQO1,SPP1	10
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,04E-03	CCN1,CD44,IGFBP1,MT1A,NQO1,SPP1	6
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	2,12E-03	NQO1,SPP1	2
+Renal Inflammation,Renal Nephritis	Pyelonephritis	3,62E-03	IL6	1
+Cardiac Infarction	Acute myocardial infarction	3,62E-03	ABCB1,IL6	2
+Cardiac Dysfunction,Cardiac Stenosis	Calcific aortic valve stenosis	5,42E-03	SPP1	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	7,82E-03	LGALS3	1
+Congenital Heart Anomaly	Eisenmenger complex	7,82E-03	SPP1	1
+Renal Damage	Nephrotoxicity	7,82E-03	SPP1	1
+Congenital Heart Anomaly	Congenital heart disease	8,27E-03	IL6,SPP1	2
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	8,65E-03	CCN1,CD44,FMO2,HMOX1,IGFBP1,LGALS3,MT1A,NQO1,SPP1	9
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Diffuse proliferative lupus nephritis	9,02E-03	SPP1	1
+Liver Damage	Hepatotoxicity	9,62E-03	ABCB1	1
+Renal Proliferation	Proliferation of mesangial cells	1,08E-02	IL6	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,14E-02	CD44,SPP1	2
+Heart Failure	Failure of heart	1,28E-02	ABCB1,IL6	2
+Cardiac Arteriopathy	Coronary artery disease	1,30E-02	ABCB1,IL6	2
+Liver Inflammation/Hepatitis	Chronic autoimmune hepatitis	1,32E-02	CCN1	1
+Renal Inflammation,Renal Nephritis	Nephritis	1,43E-02	IL6,SPP1	2
+Cardiac Dilation,Cardiac Enlargement	Idiopathic dilated cardiomyopathy	1,86E-02	IL6	1
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	1,86E-02	IL6	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	1,93E-02	G6PD,IL6	2
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	2,80E-02	CD44	1
+Liver Failure	Failure of liver	3,51E-02	IL6	1
+Liver Inflammation/Hepatitis	Chronic hepatitis B	4,03E-02	IL6	1
+Heart Failure	Acute heart failure	4,15E-02	ABCB1	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Steatohepatitis	4,55E-02	IL6	1
+Kidney Failure	End stage renal disease	6,90E-02	IL6	1
+Cardiac Congestive Cardiac Failure,Heart Failure	Congestive heart failure	7,12E-02	IL6	1
+Liver Cholestasis	Cholestasis	9,35E-02	IL6	1
+Cardiac Arrythmia	Atrial fibrillation	1,11E-01	IL6	1

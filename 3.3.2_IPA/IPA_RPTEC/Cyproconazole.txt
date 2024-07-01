@@ -1,0 +1,50 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	1,98E-07	ABCC2,CCND1,CD24,CD44,CDKN1A,CP,CYP2C19,GPX2,IDH1,IGFBP1,IGFBP3,NQO1,SCD,SPP1	14
+Liver Damage	Hepatotoxicity	8,66E-07	ABCB1,ABCC2,ALDH1A1	3
+Liver Steatosis	Advanced stage hepatic steatosis	4,20E-06	CD44,SPP1	2
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	5,11E-05	ABCC2,GPX2,SCD	3
+Liver Hyperplasia/Hyperproliferation	Liver cancer	5,54E-05	ABCC2,ALDH1A1,CCND1,CD24,CD44,CDKN1A,CP,CYP2C19,GPX2,HAVCR1,HMOX1,IDH1,IGFBP1,IGFBP3,LGALS3,NQO1,SCD,SPP1,UCHL1	19
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	3,03E-04	CD44,CDKN1A,IGFBP3,SPP1	4
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	4,10E-04	ABCC2,CCND1,CDKN1A	3
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	7,96E-04	ABCC2,CCND1,CD24,CD44,CDKN1A,CP,CYP2C19,GPX2,HAVCR1,HMOX1,IDH1,IGFBP1,IGFBP3,LGALS3,NQO1,SCD,SPP1	17
+Liver Cholestasis	Obstructive cholestasis	1,21E-03	ABCC2	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Proliferative glomerulonephritis	1,93E-03	HAVCR1,SPP1	2
+Cardiac Dilation,Cardiac Enlargement	Barth syndrome	2,41E-03	G6PD	1
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	2,41E-03	CDKN1A	1
+Liver Hyperbilirubinemia	Dubin-Johnson syndrome	2,41E-03	ABCC2	1
+Kidney Failure	Acute tubular necrosis	3,62E-03	HAVCR1	1
+Renal Damage	Acute kidney injury	4,08E-03	HAVCR1,SPP1	2
+Cardiac Infarction	Myocardial infarction	4,72E-03	ABCB1,BMP1,CYP2C19	3
+Kidney Failure,Renal Damage	Ischemic acute renal failure	4,82E-03	HAVCR1	1
+Cardiac Dysfunction	Calcification of aortic valve	6,56E-03	HMOX1,SPP1,UCHL1	3
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Combined hepatocellular carcinoma and cholangiocarcinoma	7,22E-03	IDH1	1
+Liver Cholestasis,Liver Inflammation/Hepatitis	Cholestatic hepatitis	7,22E-03	ABCC2	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	8,45E-03	NQO1,SPP1	2
+Cardiac Dysfunction,Cardiac Stenosis	Calcific aortic valve stenosis	1,08E-02	SPP1	1
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	1,10E-02	ABCC2,SPP1	2
+Kidney Failure	Chronic allograft nephropathy	1,32E-02	HAVCR1	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	1,56E-02	LGALS3	1
+Congenital Heart Anomaly	Eisenmenger complex	1,56E-02	SPP1	1
+Renal Damage	Nephrotoxicity	1,56E-02	SPP1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Diffuse proliferative lupus nephritis	1,80E-02	SPP1	1
+Kidney Failure	Acute renal allograft rejection	2,39E-02	HAVCR1	1
+Renal Proliferation	Cell proliferation of kidney cell lines	2,66E-02	CD24,CDKN1A	2
+Kidney Failure	Failure of kidney	2,85E-02	CDKN1A,HAVCR1	2
+Cardiac Infarction	Nonfatal myocardial infarction	3,09E-02	CYP2C19	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Recurrent hepatocellular carcinoma	3,80E-02	CD24	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	3,80E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranous glomerulonephritis	3,91E-02	HAVCR1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	4,49E-02	CCND1	1
+Cardiac Arteriopathy	Coronary artery disease	4,84E-02	ABCB1,CYP2C19	2
+Glomerular Injury,Renal Inflammation,Renal Nephritis	IgA nephropathy	5,07E-02	HAVCR1	1
+Glomerular Injury	Focal segmental glomerulosclerosis	5,30E-02	HAVCR1	1
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	5,53E-02	CD44	1
+Cardiac Damage	Cardiotoxicity	5,64E-02	ABCC2	1
+Liver Hyperplasia/Hyperproliferation	Advanced liver cholangiocarcinoma	7,00E-02	IDH1	1
+Heart Failure	Acute heart failure	8,12E-02	ABCB1	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C	9,78E-02	SPP1	1
+Cardiac Infarction	Acute myocardial infarction	1,67E-01	ABCB1	1
+Kidney Failure	Chronic renal failure	1,69E-01	CDKN1A	1
+Cardiac Arrythmia	Atrial fibrillation	2,10E-01	CDKN1A	1

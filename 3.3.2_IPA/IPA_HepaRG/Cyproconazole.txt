@@ -1,0 +1,49 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	1,23E-06	ABCC2,CYP7A1,GPX2,SREBF1	4
+Liver Damage	Liver Damage	4,36E-06	ABCB1,ABCC2,TNFSF10	3
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	4,61E-05	ABCC2,ACAA1,ACADS,APOA5,CYP1A1,CYP2E1,EP300,GPX2,INHBE,PVR,SREBF1,STBD1	12
+Liver Damage	Hepatotoxicity	2,08E-04	ABCB1,ABCC2	2
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	4,90E-04	IL1A,SLC51A,TNFSF10	3
+Liver Fibrosis	Fibrosis of liver	7,18E-04	IL1A,SLC51A,SREBF1,TNFSF10	4
+Liver Hyperplasia/Hyperproliferation	Liver tumor	1,02E-03	ABCC2,ACAA1,ACADS,APOA5,CYP1A1,CYP2D6,CYP2E1,CYP7A1,EP300,EPX,FMO2,FMO3,GPX2,HOXA3,INHBE,MSH2,OS9,PVR,SREBF1,STBD1	20
+Liver Inflammation/Hepatitis	Inflammation of liver	1,09E-03	ABCC2,CYP2E1,CYP7A1,IL1A	4
+Liver Steatosis	Grade 2-3 hepatic steatosis	1,35E-03	SREBF1	1
+Liver Cholestasis	Obstructive cholestasis	1,35E-03	ABCC2	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,37E-03	ABCC2,ACAA1,ACADS,APOA5,CYP1A1,CYP2D6,CYP2E1,CYP7A1,EP300,FMO2,GPX2,HOXA3,INHBE,MSH2,OS9,PVR,SREBF1,STBD1	18
+Cardiac Damage	Cardiotoxicity	1,90E-03	ABCC2,ACAA1	2
+Cardiac Arteriopathy	Disorder of coronary artery	2,21E-03	ABCB1,ACAA1,ACAT2,APOA5	4
+Cardiac Arrythmia	Atrial fibrillation	2,21E-03	CYP2D6,EP300,MAOA	3
+Liver Steatosis	Nonalcoholic fatty liver disease	2,63E-03	CYP2E1,CYP7A1,SREBF1	3
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Malignant hepatocellular carcinoma	2,69E-03	SREBF1	1
+Liver Fibrosis	Stage III-IV hepatic fibrosis	2,69E-03	SREBF1	1
+Liver Necrosis/Cell Death	Quantity of apoptotic hepatocytes	2,69E-03	TNFSF10	1
+Liver Hyperbilirubinemia	Dubin-Johnson syndrome	2,69E-03	ABCC2	1
+Cardiac Arrythmia	Ventricular fibrillation	2,76E-03	CYP2D6,MAOA	2
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	3,46E-03	CYP2E1,CYP7A1	2
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	4,00E-03	CYP2D6,MAOA	2
+Heart Failure	Failure of heart	6,82E-03	ABCB1,EP300,IL1A	3
+Liver Hyperplasia/Hyperproliferation	Hepatoblastoma	6,95E-03	EP300,MSH2	2
+Cardiac Arteriopathy	Coronary artery disease	7,01E-03	ABCB1,ACAT2,APOA5	3
+Liver Cholestasis,Liver Inflammation/Hepatitis	Cholestatic hepatitis	8,05E-03	ABCC2	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 2	9,39E-03	CYP7A1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	1,15E-02	ABCC2,ACAA1	2
+Liver Necrosis/Cell Death	Apoptosis of liver cell lines	1,74E-02	TNFSF10	1
+Cardiac Inflammation	Acute myocarditis	2,66E-02	IL1A	1
+Liver Inflammation/Hepatitis	Acute alcoholic hepatitis	2,79E-02	IL1A	1
+Cardiac Arrythmia	Symptomatic stage atrial fibrillation	2,92E-02	CYP2D6	1
+Cardiac Arrythmia,Tachycardia	Sustained ventricular tachycardia	2,92E-02	CYP2D6	1
+Cardiac Arrythmia	Symptomatic stage atrial flutter	2,92E-02	CYP2D6	1
+Cardiac Inflammation	Pericarditis	3,18E-02	IL1A	1
+Cardiac Dysfunction	Diastolic dysfunction	3,58E-02	ACAA1	1
+Cardiac Arrythmia,Tachycardia	Recurrent tachyarrhythmia	4,09E-02	CYP2D6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Progressive hepatocellular carcinoma	4,87E-02	SREBF1	1
+Cardiac Arrythmia	Severe ventricular arrhythmia	5,00E-02	CYP2D6	1
+Cardiac Infarction	Myocardial infarction	5,57E-02	ABCB1,IL1A	2
+Heart Failure	Acute heart failure	9,02E-02	ABCB1	1
+Cardiac Infarction	ST-elevation myocardial infarction	1,17E-01	IL1A	1
+Kidney Failure	End stage renal disease	1,47E-01	CYP2D6	1
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	1,63E-01	ABCC2	1
+Cardiac Infarction	Acute myocardial infarction	1,85E-01	ABCB1	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	3,09E-01	TNFSF10	1

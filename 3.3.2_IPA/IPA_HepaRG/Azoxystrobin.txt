@@ -1,0 +1,32 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	1,17E-04	CD86,CYP7B1,JAG1,SLC51A	4
+Cardiac Necrosis/Cell Death	Apoptosis of cardiomyocytes	1,70E-04	BCL2L1,HSPB8	2
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	1,84E-04	CD86,JAG1,SLC51A	3
+Liver Cholestasis	Advanced stage intrahepatic cholestasis	9,75E-04	CYP7B1	1
+Congenital Heart Anomaly	Deafness, congenital heart defects, and posterior embryotoxon	9,75E-04	JAG1	1
+Congenital Heart Anomaly	Nonsyndromic congenital heart disease	1,95E-03	JAG1	1
+Liver Hyperplasia/Hyperproliferation	Liver tumor	2,60E-03	ALDH1A1,ASAH1,BCL2L1,CYP7B1,EPX,FMO2,FMO3,GRB2,HOXA3,HSPB8,INHBE,JAG1,MKI67,SCD,SELENOS	15
+Liver Hyperplasia/Hyperproliferation	Liver cancer	8,32E-03	ALDH1A1,ASAH1,BCL2L1,CYP7B1,FMO2,GRB2,HOXA3,HSPB8,INHBE,JAG1,MKI67,SCD,SELENOS	13
+Liver Cholestasis	Intrahepatic cholestasis	8,70E-03	CYP7B1,SCD	2
+Renal Damage	Nephrotoxicity	1,26E-02	CD86	1
+Liver Damage	Hepatotoxicity	1,55E-02	ALDH1A1	1
+Cardiac Inflammation	Acute myocarditis	1,93E-02	CD86	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	2,07E-02	ASAH1,BCL2L1,CYP7B1,FMO2,GRB2,HOXA3,HSPB8,INHBE,JAG1,MKI67,SCD,SELENOS	12
+Congenital Heart Anomaly	Tetralogy of Fallot	2,12E-02	JAG1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,86E-02	BCL2L1,CYP7B1,INHBE,JAG1,MKI67,SCD	6
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	2,98E-02	JAG1	1
+Pulmonary Hypertension	Primary pulmonary hypertension	4,77E-02	BCL2L1	1
+Cardiac Arrythmia	Ventricular fibrillation	5,51E-02	MAOA	1
+Liver Failure	Failure of liver	5,60E-02	CYP7B1	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	5,69E-02	SCD	1
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	6,61E-02	MAOA	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C	7,97E-02	BCL2L1	1
+Kidney Failure	End stage renal disease	1,09E-01	CD86	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	1,12E-01	CYP7B1	1
+Renal Necrosis/Cell Death	Cell viability of kidney cell lines	1,19E-01	BCL2L1	1
+Cardiac Arrythmia	Atrial fibrillation	1,73E-01	MAOA	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Lupus nephritis	1,92E-01	CD86	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	2,35E-01	BCL2L1	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	2,98E-01	BCL2L1	1

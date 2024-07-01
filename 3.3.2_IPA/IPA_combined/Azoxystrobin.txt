@@ -1,0 +1,58 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Cirrhosis,Liver Fibrosis	Primary liver cirrhosis	1,37E-06	CD86,FN1,JAG1,NQO1,SLC51A	5
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	4,90E-06	CD86,CYP7B1,FN1,JAG1,NQO1,SLC51A	6
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	3,99E-05	CD86,JAG1,NQO1,SLC51A	4
+Liver Damage	Hepatotoxicity	3,21E-04	ABCB1,ALDH1A1	2
+Cardiac Necrosis/Cell Death	Apoptosis of cardiomyocytes	5,07E-04	BCL2L1,HSPB8	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	5,11E-04	BCL2L1,CCND1,CDKN1A,CP,CYP7B1,FN1,IGFBP1,INHBE,JAG1,MKI67,NQO1,SCD	12
+Liver Hyperplasia/Hyperproliferation	Liver tumor	6,99E-04	ALDH1A1,ASAH1,BCL2L1,CCND1,CDKN1A,CP,CYP7B1,EPX,FMO2,FMO3,FN1,GRB2,HAVCR1,HMOX1,HOXA3,HSPB8,IGFBP1,INHBE,JAG1,LGALS3,MKI67,NQO1,SCD,SELENOS	24
+Liver Hyperplasia/Hyperproliferation	Liver cancer	8,09E-04	ALDH1A1,ASAH1,BCL2L1,CCND1,CDKN1A,CP,CYP7B1,FMO2,FN1,GRB2,HAVCR1,HMOX1,HOXA3,HSPB8,IGFBP1,INHBE,JAG1,LGALS3,MKI67,NQO1,SCD,SELENOS	22
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	1,08E-03	CCND1,CDKN1A,CYP7B1	3
+Liver Cholestasis	Advanced stage intrahepatic cholestasis	1,67E-03	CYP7B1	1
+Glomerular Injury	Glomerulopathy with fibronectin deposits type 2	1,67E-03	FN1	1
+Congenital Heart Anomaly	Deafness, congenital heart defects, and posterior embryotoxon	1,67E-03	JAG1	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,73E-03	ASAH1,BCL2L1,CCND1,CDKN1A,CP,CYP7B1,FMO2,FN1,GRB2,HAVCR1,HMOX1,HOXA3,HSPB8,IGFBP1,INHBE,JAG1,LGALS3,MKI67,NQO1,SCD,SELENOS	21
+Congenital Heart Anomaly	Nonsyndromic congenital heart disease	3,34E-03	JAG1	1
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	3,34E-03	CDKN1A	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Type I Alport syndrome	5,01E-03	FN1	1
+Kidney Failure	Acute tubular necrosis	5,01E-03	HAVCR1	1
+Kidney Failure	Failure of kidney	5,79E-03	CD86,CDKN1A,HAVCR1	3
+Kidney Failure,Renal Damage	Ischemic acute renal failure	6,67E-03	HAVCR1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Glomerulonephritis	1,16E-02	CD86,FN1,HAVCR1	3
+Kidney Failure	Chronic allograft nephropathy	1,82E-02	HAVCR1	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	2,15E-02	LGALS3	1
+Renal Damage	Nephrotoxicity	2,15E-02	CD86	1
+Liver Cholestasis	Intrahepatic cholestasis	2,44E-02	CYP7B1,SCD	2
+Kidney Failure	Chronic renal failure	2,70E-02	CD86,CDKN1A	2
+Kidney Failure	Acute renal allograft rejection	3,29E-02	HAVCR1	1
+Cardiac Inflammation	Acute myocarditis	3,29E-02	CD86	1
+Congenital Heart Anomaly	Tetralogy of Fallot	3,62E-02	JAG1	1
+Cardiac Arrythmia	Atrial fibrillation	4,16E-02	CDKN1A,MAOA	2
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	5,06E-02	JAG1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	5,22E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranous glomerulonephritis	5,38E-02	HAVCR1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	6,17E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	IgA nephropathy	6,95E-02	HAVCR1	1
+Glomerular Injury	Focal segmental glomerulosclerosis	7,26E-02	HAVCR1	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	7,61E-02	BCL2L1,CDKN1A	2
+Liver Inflammation/Hepatitis	Alcoholic hepatitis	7,88E-02	CXCL1	1
+Pulmonary Hypertension	Primary pulmonary hypertension	8,03E-02	BCL2L1	1
+Cardiac Infarction	Myocardial infarction	8,15E-02	ABCB1,BMP1	2
+Cardiac Arteriopathy	Coronary artery disease	8,60E-02	ABCB1,FN1	2
+Cardiac Arrythmia	Ventricular fibrillation	9,26E-02	MAOA	1
+Liver Failure	Failure of liver	9,41E-02	CYP7B1	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	9,56E-02	SCD	1
+Cardiac Dysfunction	Calcification of aortic valve	9,98E-02	FN1,HMOX1	2
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	1,11E-01	MAOA	1
+Heart Failure	Acute heart failure	1,11E-01	ABCB1	1
+Liver Inflammation/Hepatitis	Inflammation of liver	1,11E-01	BCL2L1,CXCL1	2
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	1,21E-01	BCL2L1,FN1	2
+Liver Inflammation/Hepatitis	Chronic hepatitis C	1,33E-01	BCL2L1	1
+Kidney Failure	End stage renal disease	1,80E-01	CD86	1
+Renal Necrosis/Cell Death	Cell viability of kidney cell lines	1,96E-01	BCL2L1	1
+Cardiac Infarction	Acute myocardial infarction	2,24E-01	ABCB1	1
+Nephrosis	Nephrosis	2,94E-01	FN1	1
+Renal Proliferation	Cell proliferation of kidney cell lines	2,99E-01	CDKN1A	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Lupus nephritis	3,07E-01	CD86	1

@@ -1,0 +1,40 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy type 1II	5,11E-04	CRYAB	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 1	5,11E-04	UGT1A1	1
+Liver Hyperbilirubinemia	Severe hyperbilirubinemia	5,11E-04	UGT1A1	1
+Liver Inflammation/Hepatitis	Inflammation of liver	5,96E-04	CYP2E1,IL1B,UGT1A1	3
+Liver Hyperbilirubinemia	Lucey-Driscoll syndrome	1,02E-03	UGT1A1	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 2	1,02E-03	UGT1A1	1
+Liver Hyperbilirubinemia	Gilbert syndrome	1,53E-03	UGT1A1	1
+Liver Inflammation/Hepatitis	HIV-HCV co-infection	2,04E-03	UGT1A1	1
+Increased Levels of LDH	Increased release of LDH	3,57E-03	IL1B	1
+Liver Steatosis	Nonalcoholic fatty liver disease	4,73E-03	ACADL,CYP2E1	2
+Liver Inflammation/Hepatitis	Viral hepatitis	5,10E-03	IL1B,UGT1A1	2
+Kidney Failure	Failure of kidney	5,33E-03	CYP2D6,DEFB1	2
+Heart Failure	Ischemic heart failure	6,11E-03	IL1B	1
+Liver Proliferation	Proliferation of hepatocytes	7,64E-03	IL1B	1
+Renal Proliferation	Proliferation of mesangial cells	9,16E-03	IL1B	1
+Kidney Failure	Acute renal allograft rejection	1,02E-02	DEFB1	1
+Cardiac Inflammation	Acute myocarditis	1,02E-02	IL1B	1
+Liver Inflammation/Hepatitis	Acute alcoholic hepatitis	1,07E-02	IL1B	1
+Cardiac Arrythmia	Symptomatic stage atrial fibrillation	1,12E-02	CYP2D6	1
+Cardiac Arrythmia,Tachycardia	Sustained ventricular tachycardia	1,12E-02	CYP2D6	1
+Cardiac Arrythmia	Symptomatic stage atrial flutter	1,12E-02	CYP2D6	1
+Cardiac Inflammation	Pericarditis	1,22E-02	IL1B	1
+Cardiac Dysfunction	Diastolic dysfunction	1,37E-02	IL1B	1
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	1,57E-02	IL1B	1
+Cardiac Arrythmia,Tachycardia	Recurrent tachyarrhythmia	1,57E-02	CYP2D6	1
+Cardiac Arrythmia	Severe ventricular arrhythmia	1,92E-02	CYP2D6	1
+Cardiac Arrythmia	Ventricular fibrillation	2,92E-02	CYP2D6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	3,08E-02	ACADL,CYP1A1,CYP2E1,UGT1A1	4
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	3,27E-02	CYP2E1	1
+Liver Inflammation/Hepatitis	Chronic hepatitis B	3,42E-02	IL1B	1
+Cardiac Infarction	ST-elevation myocardial infarction	4,60E-02	IL1B	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	5,72E-02	SLC51A	1
+Kidney Failure	End stage renal disease	5,87E-02	CYP2D6	1
+Cardiac Dilation,Cardiac Enlargement	Primary dilated cardiomyopathy	6,40E-02	CRYAB	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,21E-01	ACADL,CYP1A1,CYP2D6,CYP2E1,FMO2,UGT1A1	6
+Cardiac Arteriopathy	Coronary artery disease	1,40E-01	IL1B	1
+Renal Necrosis/Cell Death	Cell death of kidney cell lines	1,77E-01	CRYAB	1

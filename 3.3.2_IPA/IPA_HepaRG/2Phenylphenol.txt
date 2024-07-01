@@ -1,0 +1,28 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Decreased Levels of Albumin	Decreased production of albumin	9,29E-05	IL6	1
+Liver Fibrosis	Opisthorchiasis periductal fibrosis	9,29E-05	IL6	1
+Decreased Levels of Albumin	Decreased secretion of albumin	1,86E-04	IL6	1
+Liver Inflammation/Hepatitis	Infantile cholestatic hepatitis syndrome	1,86E-04	IL6	1
+Liver Inflammation/Hepatitis	Hepatitis subtype infantile hepatitis syndrome	1,86E-04	IL6	1
+Decreased Levels of Albumin	Decreased synthesis of albumin	2,79E-04	IL6	1
+Renal Inflammation,Renal Nephritis	Pyelonephritis	5,57E-04	IL6	1
+Renal Proliferation	Proliferation of mesangial cells	1,67E-03	IL6	1
+Cardiac Dilation,Cardiac Enlargement	Idiopathic dilated cardiomyopathy	2,88E-03	IL6	1
+Increased Levels of Alkaline Phosphatase	Increased activation of alkaline phosphatase	2,88E-03	IL6	1
+Liver Inflammation/Hepatitis	Alcoholic hepatitis	4,55E-03	IL6	1
+Liver Failure	Failure of liver	5,47E-03	IL6	1
+Liver Inflammation/Hepatitis	Chronic hepatitis B	6,31E-03	IL6	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Steatohepatitis	7,14E-03	IL6	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C	7,88E-03	IL6	1
+Kidney Failure	End stage renal disease	1,09E-02	IL6	1
+Cardiac Congestive Cardiac Failure,Heart Failure	Congestive heart failure	1,13E-02	IL6	1
+Cardiac Infarction	Acute myocardial infarction	1,40E-02	IL6	1
+Liver Cholestasis	Cholestasis	1,50E-02	IL6	1
+Cardiac Arrythmia	Atrial fibrillation	1,79E-02	IL6	1
+Congenital Heart Anomaly	Congenital heart disease	2,13E-02	IL6	1
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	2,46E-02	IL6	1
+Cardiac Arteriopathy	Coronary artery disease	2,70E-02	IL6	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,16E-01	FMO2,IL6	2
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	5,54E-01	FMO2	1

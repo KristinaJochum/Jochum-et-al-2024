@@ -1,0 +1,12 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Cardiac Arrythmia	Ventricular fibrillation	2,14E-02	MAOA	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	2,21E-02	SCD	1
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	2,57E-02	MAOA	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	4,19E-02	SLC51A	1
+Cardiac Arrythmia	Atrial fibrillation	6,99E-02	MAOA	1
+Cardiac Dysfunction	Calcification of aortic valve	1,13E-01	C9	1
+Liver Hyperplasia/Hyperproliferation	Liver tumor	1,58E-01	C9,FMO2,FMO3,SCD,SELENOS	5
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,37E-01	C9,SCD	2
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	2,57E-01	C9,FMO2,SCD,SELENOS	4

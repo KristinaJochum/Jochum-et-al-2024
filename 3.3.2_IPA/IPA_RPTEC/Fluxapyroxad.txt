@@ -1,0 +1,32 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	9,99E-04	CALB1,CD44,CDKN1A	3
+Cardiac Dilation,Cardiac Enlargement	Barth syndrome	1,49E-03	G6PD	1
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	1,49E-03	CDKN1A	1
+Kidney Failure	Acute tubular necrosis	2,23E-03	HAVCR1	1
+Liver Steatosis	Advanced stage hepatic steatosis	2,23E-03	CD44	1
+Kidney Failure,Renal Damage	Ischemic acute renal failure	2,97E-03	HAVCR1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	3,57E-03	CCND1,CDKN1A	2
+Kidney Failure	Chronic allograft nephropathy	8,15E-03	HAVCR1	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	9,62E-03	LGALS3	1
+Kidney Failure	Failure of kidney	1,13E-02	CDKN1A,HAVCR1	2
+Liver Damage	Hepatotoxicity	1,18E-02	ABCB1	1
+Kidney Failure	Acute renal allograft rejection	1,48E-02	HAVCR1	1
+Cardiac Infarction	Myocardial infarction	1,84E-02	ABCB1,BMP1	2
+Cardiac Dysfunction	Calcification of aortic valve	2,30E-02	HMOX1,UCHL1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	2,35E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranous glomerulonephritis	2,43E-02	HAVCR1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	2,79E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	IgA nephropathy	3,15E-02	HAVCR1	1
+Glomerular Injury	Focal segmental glomerulosclerosis	3,29E-02	HAVCR1	1
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	3,44E-02	CD44	1
+Heart Failure	Acute heart failure	5,08E-02	ABCB1	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	5,69E-02	CALB1,CCND1,CD44,CDKN1A,HAVCR1,HMOX1,IGFBP1,LGALS3,UCHL1	9
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	1,06E-01	CCND1,CD44,CDKN1A,IGFBP1	4
+Cardiac Infarction	Acute myocardial infarction	1,07E-01	ABCB1	1
+Kidney Failure	Chronic renal failure	1,08E-01	CDKN1A	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,25E-01	CALB1,CCND1,CD44,CDKN1A,HAVCR1,HMOX1,IGFBP1,LGALS3	8
+Cardiac Arrythmia	Atrial fibrillation	1,35E-01	CDKN1A	1
+Renal Proliferation	Cell proliferation of kidney cell lines	1,46E-01	CDKN1A	1
+Cardiac Arteriopathy	Coronary artery disease	1,97E-01	ABCB1	1

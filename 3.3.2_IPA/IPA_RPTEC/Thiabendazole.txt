@@ -1,0 +1,43 @@
+© 2000-2023 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Damage	Hepatotoxicity	2,27E-07	ABCB1,ABCC2,ALDH1A1	3
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	1,11E-04	ABCC2,CCND1,CDKN1A	3
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	3,05E-04	ABCC2,CCND1,CDKN1A,CP,CYP2C19,GHR,IGFBP1,NQO1	8
+Liver Hyperplasia/Hyperproliferation	Liver cancer	4,33E-04	ABCC2,ALDH1A1,CCND1,CDKN1A,CP,CYP2C19,GHR,HAVCR1,HMOX1,IGFBP1,LGALS3,NQO1,UCHL1	13
+Kidney Failure	Failure of kidney	6,35E-04	CDKN1A,GHR,HAVCR1	3
+Liver Cholestasis	Obstructive cholestasis	7,90E-04	ABCC2	1
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	1,58E-03	CDKN1A	1
+Liver Hyperbilirubinemia	Dubin-Johnson syndrome	1,58E-03	ABCC2	1
+Kidney Failure	Acute tubular necrosis	2,37E-03	HAVCR1	1
+Kidney Failure,Renal Damage	Ischemic acute renal failure	3,15E-03	HAVCR1	1
+Liver Cholestasis,Liver Inflammation/Hepatitis	Cholestatic hepatitis	4,73E-03	ABCC2	1
+Kidney Failure	Chronic renal failure	6,36E-03	CDKN1A,GHR	2
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	7,83E-03	ABCC2,CCND1,CDKN1A,CP,CYP2C19,GHR,HAVCR1,HMOX1,IGFBP1,LGALS3,NQO1	11
+Kidney Failure	Chronic allograft nephropathy	8,65E-03	HAVCR1	1
+Liver Cirrhosis,Liver Fibrosis	Decompensated cirrhosis of liver	9,44E-03	GHR	1
+Liver Fibrosis,Liver Proliferation	Proliferation of hepatic stellate cells	1,02E-02	LGALS3	1
+Kidney Failure	Acute renal allograft rejection	1,57E-02	HAVCR1	1
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	1,84E-02	GHR,NQO1	2
+Cardiac Infarction	Nonfatal myocardial infarction	2,03E-02	CYP2C19	1
+Cardiac Infarction	Myocardial infarction	2,07E-02	ABCB1,CYP2C19	2
+Heart Failure	Failure of heart	2,15E-02	ABCB1,GHR	2
+Cardiac Arteriopathy	Coronary artery disease	2,19E-02	ABCB1,CYP2C19	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	2,50E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Membranous glomerulonephritis	2,57E-02	HAVCR1	1
+Cardiac Dysfunction	Calcification of aortic valve	2,58E-02	HMOX1,UCHL1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	2,96E-02	CCND1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	IgA nephropathy	3,34E-02	HAVCR1	1
+Glomerular Injury	Focal segmental glomerulosclerosis	3,50E-02	HAVCR1	1
+Heart Failure	Chronic heart failure	3,57E-02	GHR	1
+Cardiac Damage	Cardiotoxicity	3,72E-02	ABCC2	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	4,63E-02	ABCC2	1
+Heart Failure	Acute heart failure	5,39E-02	ABCB1	1
+Liver Hyperplasia/Hyperproliferation	Hepatoblastoma	7,10E-02	GHR	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	8,70E-02	NQO1	1
+Kidney Failure	End stage renal disease	8,92E-02	GHR	1
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	9,93E-02	ABCC2	1
+Cardiac Infarction	Acute myocardial infarction	1,13E-01	ABCB1	1
+Cardiac Arrythmia	Atrial fibrillation	1,43E-01	CDKN1A	1
+Renal Proliferation	Cell proliferation of kidney cell lines	1,54E-01	CDKN1A	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,95E-01	CDKN1A	1
